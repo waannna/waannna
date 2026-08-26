@@ -1,32 +1,20 @@
-<table>
-  <tr>
-    <td width="72%" valign="middle">
-      <h1>Ade Dermawan</h1>
-      <p>Student in <strong>Informatics Management</strong> based in Bandung, Indonesia.<br>
-      Focused on full-stack web engineering, relational database design, and scalable backend architecture.</p>
-      <p>
-        <a href="mailto:dermawan290804@gmail.com">Email</a> • 
-        <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> • 
-        <a href="https://github.com/waannna?tab=repositories">Repositories</a>
-      </p>
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="avatar.jpg" width="130px" style="border-radius: 50%; border: 2px solid #30363d;" alt="Ade Dermawan" />
-    </td>
-  </tr>
-</table>
+# Ade Dermawan
+
+Student in **Informatics Management** based in Bandung, Indonesia. Focused on full-stack web engineering, relational database design, and scalable backend architecture.
+
+[Email](mailto:dermawan290804@gmail.com) • [LinkedIn](https://linkedin.com/in/USERNAME) • [Repositories](https://github.com/waannna?tab=repositories)
+
+<br clear="all" />
 
 ---
 
 ### Core Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), Java, PHP, HTML/CSS |
-| **Frontend** | Vue.js, React |
-| **Backend** | Node.js, Express, REST APIs |
-| **Databases** | PostgreSQL, MySQL, Relational Schema Modeling |
-| **Tools & Practices** | Git, Postman, MVC Architecture, Authentication (JWT) |
+* **Languages:** JavaScript (ES6+), Java, PHP, HTML/CSS
+* **Frontend:** Vue.js, React
+* **Backend:** Node.js, Express, REST APIs
+* **Databases:** PostgreSQL, MySQL, Relational Schema Modeling
+* **Tools & Practices:** Git, Postman, JWT Authentication,
 
 ---
 
@@ -45,5 +33,6 @@ Aplikasi manajemen penjadwalan sesi konseling dengan antarmuka modern dan integr
 ---
 
 ### Current Focus
+
 * Optimizing SQL query execution plans and complex indexing strategies.
 * Building resilient full-stack systems with clean, maintainable architecture.
